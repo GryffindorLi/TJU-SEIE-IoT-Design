@@ -1,0 +1,43 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+astroid=2.4.2=py37_0
+blas=1.0=mkl
+certifi=2020.6.20=py37_0
+colorama=0.4.3=py_0
+hdf5=1.8.20=hac2f561_1
+icc_rt=2019.0.0=h0cc432a_1
+intel-openmp=2020.2=254
+isort=4.3.21=py37_0
+jpeg=9b=hb83a4c4_2
+lazy-object-proxy=1.4.3=py37he774522_0
+libopencv=3.4.2=h20b85fd_0
+libpng=1.6.37=h2a8f88b_0
+libtiff=4.1.0=h56a325e_1
+lz4-c=1.9.2=h62dcd97_1
+mccabe=0.6.1=py37_1
+mkl=2020.2=256
+mkl-service=2.3.0=py37hb782905_0
+mkl_fft=1.1.0=py37h45dec08_0
+mkl_random=1.1.1=py37h47e9c7a_0
+numpy=1.19.1=py37h5510c5b_0
+numpy-base=1.19.1=py37ha3acd2a_0
+opencv=3.4.2=py37h40b0b35_0
+opencv-contrib-python=3.4.2.17=pypi_0
+pip=20.2.2=py37_0
+py-opencv=3.4.2=py37hc319ecb_0
+pylint=2.5.3=py37_0
+python=3.7.0=hea74fb7_0
+setuptools=49.6.0=py37_0
+six=1.15.0=py_0
+toml=0.10.1=py_0
+tqdm=4.48.2=py_0
+typed-ast=1.4.1=py37he774522_0
+vc=14.1=h0510ff6_4
+vs2015_runtime=14.16.27012=hf0eaf9b_3
+wheel=0.35.1=py_0
+wincertstore=0.2=py37_0
+wrapt=1.11.2=py37he774522_0
+xz=5.2.5=h62dcd97_0
+zlib=1.2.11=h62dcd97_4
+zstd=1.4.5=h04227a9_0
